@@ -1,0 +1,57 @@
+body, html {
+	width: 100%;
+	height: 100%;
+    text-rendering: optimizeLegibility;
+    font-family: 'Nunito', sans-serif;
+    background-color: #D3D3D3
+}
+
+
+}
+@import url('https://fonts.googleapis.com/css?family=Lato|Mina');
+p {
+	line-height: 1.6em;
+	margin: 0 0 10px 0;
+}
+h1,h2,h3,
+ {
+	font-weight: 400;
+	line-height: 1.1em;
+}
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+h2 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+
+.navbar-brand{
+   font-family: 'Nunito', sans-serif;
+   font-size: 28pt;
+   padding-bottom: 50px
+
+}
+
+.text-justify.bg-light.p-2{
+    opacity: 0.6;
+
+}
+
+#chicken {
+	color: #FFFF00
+}
+#Beef {
+	color: #FFFF00
+}
+#Sushi {
+	color: #FFFF00
+}
+
+#txt{
+	color: #FFFFFF
+}
+
+
